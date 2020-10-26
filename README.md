@@ -1,4 +1,11 @@
-### Hi there 👋
+### My bio
+
+- Currently a student
+- Loves anime and japanese culture on the whole
+- Enjoys gaming and programming equally
+- A good exposure on python, especially on the areas of Machine learning and async programming.
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=npc203)](https://github.com/npc203/)
 
 <!--
 **npc203/npc203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
