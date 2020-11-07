@@ -1,4 +1,6 @@
 ### My bio
+![](https://komarev.com/ghpvc/?username=npc203)
+
 
 - Currently a student
 - Loves anime and japanese culture on the whole
